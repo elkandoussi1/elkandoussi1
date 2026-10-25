@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="362" viewBox="0 0 1280 362" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">أثمان — لصحبة أقرب مع القرآن الكريم</title>
+  <desc id="desc">تطبيق للقراءة والحفظ والمراجعة برواية ورش، وفق التقسيم المغربي: 60 حزبًا و120 نصفًا و240 ربعًا و480 ثمنًا.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="362" gradientUnits="userSpaceOnUse"><stop stop-color="#F9F5EA"/><stop offset="1" stop-color="#F0EBDA"/></linearGradient>
+    <linearGradient id="green" x1="95" y1="38" x2="390" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#285C49"/><stop offset="1" stop-color="#143D32"/></linearGradient>
+    <pattern id="pattern" width="54" height="54" patternUnits="userSpaceOnUse"><path d="m27 7 6 14 14 6-14 6-6 14-6-14-14-6 14-6Z" stroke="#C2AB75" stroke-opacity=".17"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1278" height="360" rx="23" fill="url(#bg)" stroke="#DCD3B8" stroke-width="2"/>
+  <path d="M24 1h408v360H24A23 23 0 0 1 1 338V24A23 23 0 0 1 24 1Z" fill="url(#pattern)"/>
+  <rect x="80" y="35" width="296" height="294" rx="28" fill="url(#green)"/>
+  <path d="M138 251V151c0-53 44-71 90-102 46 31 90 49 90 102v100" stroke="#CEB576" stroke-opacity=".65" stroke-width="2"/>
+  <path d="M151 248v-95c0-43 38-60 77-87 39 27 77 44 77 87v95" stroke="#CEB576" stroke-opacity=".25"/>
+  <g transform="translate(228 165)" stroke="#E8D4A0" stroke-width="2"><path d="m0-37 11 15 18-7-7 18L37 0 22 11l7 18-18-7L0 37l-11-15-18 7 7-18L-37 0l15-11-7-18 18 7Z"/><path d="M-20 0 0-20 20 0 0 20Z"/><circle r="6" fill="#E8D4A0"/></g>
+  <path d="M129 270h198" stroke="#82A38C" stroke-opacity=".5"/>
+  <text x="228" y="303" text-anchor="middle" fill="#E8D4A0" font-family="Arial, sans-serif" font-size="12" letter-spacing="4">ATHMAN / QURAN</text>
+  <rect x="1031" y="35" width="185" height="31" rx="15.5" fill="#E5EBDD"/>
+  <circle cx="1052" cy="50" r="3.5" fill="#39654D"/>
+  <text x="1197" y="56" text-anchor="start" fill="#31563E" font-family="Tahoma, Arial, sans-serif" font-size="14" direction="rtl">مجاني ومتاح للجميع</text>
+  <text x="1216" y="156" text-anchor="start" fill="#204C3A" font-family="Amiri, 'Noto Naskh Arabic', 'DejaVu Sans', serif" font-size="81" font-weight="700" direction="rtl">أَثْمَان</text>
+  <text x="1216" y="206" text-anchor="start" fill="#53644C" font-family="Tahoma, 'DejaVu Sans', Arial, sans-serif" font-size="25" direction="rtl">لصحبةٍ أقرب مع القرآن الكريم</text>
+  <path d="M486 238h730" stroke="#D7CEB4"/>
+  <g font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#204C3A" text-anchor="middle">
+    <text x="1140" y="278">60</text><text x="959" y="278">120</text><text x="778" y="278">240</text><text x="597" y="278">480</text>
+  </g>
+  <g font-family="Tahoma, 'DejaVu Sans', Arial, sans-serif" font-size="16" fill="#6C735E" text-anchor="middle" direction="rtl">
+    <text x="1140" y="309">حزبًا</text><text x="959" y="309">نصفًا</text><text x="778" y="309">ربعًا</text><text x="597" y="309">ثمنًا</text>
+  </g>
+  <path d="M1050 266v44m-181-44v44m-181-44v44" stroke="#D7CEB4"/>
+</svg>

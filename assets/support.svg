@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="210" viewBox="0 0 1280 210" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">لنبنِ المزيد مما ينفع — صفحة الدعم العامة</title>
+  <desc id="desc">Share an idea, contribute to a project or support more free and open-source work.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1280" y2="210" gradientUnits="userSpaceOnUse"><stop stop-color="#132E31"/><stop offset="1" stop-color="#1A493A"/></linearGradient></defs>
+  <rect x="1" y="1" width="1278" height="208" rx="23" fill="url(#bg)" stroke="#386457" stroke-width="2"/>
+  <circle cx="112" cy="106" r="49" fill="#234A40" stroke="#668C6A"/>
+  <path d="m112 128-24-22a16 16 0 0 1 24-21 16 16 0 0 1 24 21Z" fill="#E7BD74" fill-opacity=".1" stroke="#E7BD74" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="198" y="80" fill="#E7BD74" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3">BUILD MORE. KEEP IT OPEN.</text>
+  <text x="198" y="123" fill="#F5F1E5" font-family="Arial, sans-serif" font-size="31" font-weight="700">Small contributions. Lasting impact.</text>
+  <text x="198" y="157" fill="#B0CCBC" font-family="Arial, sans-serif" font-size="16">Share a project / Contribute an idea / Support the work</text>
+  <rect x="911" y="72" width="298" height="66" rx="16" fill="#E7BD74"/>
+  <text x="1060" y="112" text-anchor="middle" fill="#183D30" font-family="Tahoma, 'DejaVu Sans', Arial, sans-serif" font-size="23" font-weight="700" direction="rtl">الدعم والمساهمة</text>
+</svg>
