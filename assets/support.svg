@@ -1,13 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="210" viewBox="0 0 1280 210" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">لنبنِ المزيد مما ينفع — صفحة الدعم العامة</title>
-  <desc id="desc">Share an idea, contribute to a project or support more free and open-source work.</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1280" y2="210" gradientUnits="userSpaceOnUse"><stop stop-color="#132E31"/><stop offset="1" stop-color="#1A493A"/></linearGradient></defs>
-  <rect x="1" y="1" width="1278" height="208" rx="23" fill="url(#bg)" stroke="#386457" stroke-width="2"/>
-  <circle cx="112" cy="106" r="49" fill="#234A40" stroke="#668C6A"/>
-  <path d="m112 128-24-22a16 16 0 0 1 24-21 16 16 0 0 1 24 21Z" fill="#E7BD74" fill-opacity=".1" stroke="#E7BD74" stroke-width="2.5" stroke-linejoin="round"/>
-  <text x="198" y="80" fill="#E7BD74" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3">BUILD MORE. KEEP IT OPEN.</text>
-  <text x="198" y="123" fill="#F5F1E5" font-family="Arial, sans-serif" font-size="31" font-weight="700">Small contributions. Lasting impact.</text>
-  <text x="198" y="157" fill="#B0CCBC" font-family="Arial, sans-serif" font-size="16">Share a project / Contribute an idea / Support the work</text>
-  <rect x="911" y="72" width="298" height="66" rx="16" fill="#E7BD74"/>
-  <text x="1060" y="112" text-anchor="middle" fill="#183D30" font-family="Tahoma, 'DejaVu Sans', Arial, sans-serif" font-size="23" font-weight="700" direction="rtl">الدعم والمساهمة</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" fill="none" role="img" aria-labelledby="t d">
+  <title id="t">لنبنِ المزيد مما ينفع — صفحة الدعم والمساهمة</title>
+  <desc id="d">شارك المشروع، اقترح تحسينًا، أو ساند تطوير المزيد من الأدوات العربية المفتوحة.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#0E2A2C"/><stop offset="1" stop-color="#15463A"/></linearGradient>
+    <pattern id="stars" width="64" height="64" patternUnits="userSpaceOnUse"><path d="m32 12 6 14 14 6-14 6-6 14-6-14-14-6 14-6Z" stroke="#E7BD74" stroke-opacity=".10"/></pattern>
+    <clipPath id="c"><rect width="1280" height="240" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1280" height="240" fill="url(#bg)"/>
+    <rect width="380" height="240" fill="url(#stars)"/>
+    <circle cx="1268" cy="12" r="150" stroke="#4AAE99" stroke-opacity=".12"/>
+  </g>
+  <rect x="1" y="1" width="1278" height="238" rx="23" stroke="#386457"/>
+  <path d="M25 1h180" stroke="#E7BD74" stroke-width="3" stroke-linecap="round"/>
+
+  <g transform="translate(64 82)">
+    <rect width="316" height="76" rx="38" fill="#E7BD74"/>
+    <text x="158" y="48" text-anchor="middle" fill="#123528" font-family="Tahoma, 'Segoe UI', 'Noto Naskh Arabic', Arial, sans-serif" font-size="21" font-weight="700" direction="rtl">صفحة الدعم والمساهمة</text>
+  </g>
+  <text x="64" y="200" fill="#8FB6AA" font-family="Arial, sans-serif" font-size="12" letter-spacing="2.4">SHARE · SUGGEST · SUPPORT</text>
+
+  <g font-family="Tahoma, 'Segoe UI', 'Noto Naskh Arabic', Arial, sans-serif" direction="rtl" text-anchor="start">
+    <text x="1216" y="86" fill="#E7BD74" font-size="13" font-weight="700">مشروع مفتوح للجميع</text>
+    <text x="1218" y="140" fill="#F5F1E5" font-size="36" font-weight="700">لنبنِ المزيد مما ينفع</text>
+    <text x="1216" y="184" fill="#B0CCBC" font-size="18">شارك، اقترح تحسينًا، أو ساند التطوير — ويبقى أثمان مجانيًا</text>
+  </g>
 </svg>

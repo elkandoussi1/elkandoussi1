@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="380" viewBox="0 0 640 380" fill="none" role="img" aria-labelledby="t d">
+  <title id="t">رابطي — صفحة واحدة لروابطك ومنتجاتك</title>
+  <desc id="d">تطبيق ويب لبناء صفحة عامة تجمع الروابط والمنتجات الرقمية، مع لوحة تحكم مستقلة.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="640" y2="380" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1F27"/><stop offset="1" stop-color="#123A34"/></linearGradient>
+    <clipPath id="c"><rect width="640" height="380" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="640" height="380" fill="url(#bg)"/>
+    <circle cx="572" cy="336" r="132" fill="#B79CFF" fill-opacity=".07"/>
+    <circle cx="572" cy="336" r="88" stroke="#B79CFF" stroke-opacity=".14" stroke-dasharray="3 9"/>
+  </g>
+  <rect x="1" y="1" width="638" height="378" rx="23" stroke="#B79CFF" stroke-opacity=".3"/>
+  <path d="M25 1h140" stroke="#B79CFF" stroke-width="3" stroke-linecap="round"/>
+
+  <g transform="translate(54 56)" stroke="#B79CFF" stroke-width="1.8" fill="none">
+    <path d="m10 0 2.9 7.1L20 10l-7.1 2.9L10 20l-2.9-7.1L0 10l7.1-2.9Z"/>
+    <circle r="2.4" fill="#B79CFF" stroke="none"/>
+  </g>
+
+  <g font-family="Tahoma, 'Segoe UI', 'Noto Naskh Arabic', Arial, sans-serif" direction="rtl" text-anchor="start">
+    <text x="586" y="70" fill="#93B8AC" font-size="18">منتج · ويب</text>
+    <text x="588" y="196" fill="#F6F2E8" font-size="56" font-weight="700">رابطي</text>
+    <text x="586" y="244" fill="#A9C9BE" font-size="22">صفحة واحدة تجمع روابطك ومنتجاتك، مع لوحة تحكم</text>
+    <text x="586" y="330" fill="#7FA79B" font-size="18">متجر <tspan fill="#B79CFF">·</tspan> Supabase <tspan fill="#B79CFF">·</tspan> متعدد اللغات</text>
+  </g>
+  <path d="M54 286h532" stroke="#264844"/>
+</svg>
