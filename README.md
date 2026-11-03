@@ -125,6 +125,8 @@
   &nbsp;·&nbsp; <a href="https://www.instagram.com/elkandoussicom">إنستغرام</a>
   &nbsp;·&nbsp; <a href="https://www.tiktok.com/@elkandoussicom">تيك توك</a>
   &nbsp;·&nbsp; <a href="https://t.me/elkandoussicom">تلغرام</a>
+  &nbsp;·&nbsp; <a href="https://pin.it/6DI0OJQCt">بينترست</a>
+  &nbsp;·&nbsp; <a href="https://whatsapp.com/channel/0029Va1DqDJ23n3bLDCNUB1M">واتساب</a>
 </p>
 
 <p align="center">
