@@ -60,7 +60,7 @@
   <a href="https://elkandoussi1.github.io/daftar-nusus/"><img src="https://raw.githubusercontent.com/elkandoussi1/elkandoussi1/main/assets/projects/daftar-nusus.svg?v=20261102" width="48%" alt="دفتر النصوص — تحرير وطباعة النصوص التعليمية على صفحة A4" /></a>
 </p>
 <p align="center">
-  <a href="https://elkandoussi1.github.io/elhaqiba/"><img src="https://raw.githubusercontent.com/elkandoussi1/elkandoussi1/main/assets/projects/elhaqiba.svg?v=20261102" width="48%" alt="الحقيبة — محتوى تربوي وقنوات تواصل في مكان واحد" /></a>
+  <a href="https://elkandoussi.blogspot.com/"><img src="https://raw.githubusercontent.com/elkandoussi1/elkandoussi1/main/assets/projects/elhaqiba.svg?v=20261102" width="48%" alt="مدونة الحقيبة — محتوى تربوي وقنوات تواصل في مكان واحد" /></a>
   <a href="https://github.com/elkandoussi1/Multi-Voice-Storyteller-Arabic-"><img src="https://raw.githubusercontent.com/elkandoussi1/elkandoussi1/main/assets/projects/multi-voice.svg?v=20261102" width="48%" alt="Multi-Voice Storyteller — حكايات عربية بأصوات متعددة" /></a>
 </p>
 
@@ -95,6 +95,10 @@
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
   <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blogger" />
 </p>
 
 </div>
